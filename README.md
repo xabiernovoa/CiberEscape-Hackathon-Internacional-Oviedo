@@ -1,7 +1,7 @@
-# CiberEscape: La Amenaza Invisible
+# CiberEscape
 
 
-> **Democratizando la seguridad digital a través de la gamificación.**
+> **Este proyecto forma parte de la propuesta de solución al problema propuesto por la empresa Eguzki en el Hackathon Internacional de Ciberseguridad de la Universidad de Oviedo**
 
 **CyberEscape** es una propuesta de aplicación móvil que enseña ciberseguridad mediante mecánicas de *Escape Room Digital*. A diferencia de los cursos tradicionales o plataformas técnicas especializadas, CyberEscape ofrece una experiencia inmersiva, narrativa y visualmente atractiva diseñada para jóvenes y el público general.
 
