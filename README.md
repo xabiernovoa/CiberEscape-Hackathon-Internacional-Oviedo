@@ -72,6 +72,7 @@ src/
 ├── types.ts          # Definiciones de tipos TypeScript
 ├── App.tsx           # Enrutador principal y gestión de estado global
 └── index.css         # Estilos globales y tema visual
+```
 
 ## Imagenes del proyecto
 
@@ -81,9 +82,4 @@ src/
 <img width="2235" height="1325" alt="Captura de pantalla do 2025-11-21 22-42-39" src="https://github.com/user-attachments/assets/0ec7deed-81bc-491b-a3b5-30916b711266" />
 <img width="2235" height="1325" alt="Captura de pantalla do 2025-11-21 22-42-47" src="https://github.com/user-attachments/assets/ff338ba3-9112-437e-8221-8eda19d73530" />
 <img width="2235" height="1325" alt="Captura de pantalla do 2025-11-21 22-43-01" src="https://github.com/user-attachments/assets/d4e0a24e-206d-4b07-9a98-43c1f1f25569" />
-
-
-
-
-
 
